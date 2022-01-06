@@ -1,4 +1,0 @@
-numpy==1.17.0
-jupyter>=1.0
-graphviz==0.13.2
-sklearn

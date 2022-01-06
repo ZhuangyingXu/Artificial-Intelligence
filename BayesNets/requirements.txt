@@ -1,0 +1,10 @@
+networkx
+numpy
+scipy
+pandas
+pyparsing
+torch==1.4.0
+statsmodels
+tqdm
+joblib
+pgmpy==0.1.10
