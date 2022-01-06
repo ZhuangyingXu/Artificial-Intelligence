@@ -1,0 +1,9 @@
+jupyter>=1.0
+numpy==1.19.1
+requests==2.24.0
+matplotlib==3.3.0
+networkx==2.4
+pandas==1.1.0
+pgmpy==0.1.10
+open3d-python==0.7.0.0
+ipywidgets==7.5.1
