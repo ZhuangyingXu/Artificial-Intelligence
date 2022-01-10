@@ -1,4 +1,4 @@
-# Artificial-Intelligence-CS-6601-
+# Artificial-Intelligence
 
 This repo contains the implementation to the most widely used AI algorithms.
 
